@@ -5,7 +5,7 @@ import threading
 from time import sleep
 
 def theThing():
-	sleep(0.5)
+    sleep(0.5)
     for i in range(0,10):
         print(f'Shutting down in {10-i} seconds')
         sleep(1)
