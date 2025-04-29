@@ -15,7 +15,7 @@ python3 -m pip install pydub os
 ```
 
 Then get the appropriate file.\
-For Windows (yuck) computers get the `outro_WIN.py` \
+For Windows computers get the `outro_WIN.py` \
 For Linux/MacOS computers get the `outro_NIX.py` \
 The only difference is the shutdown commands between the operating systems.
 
